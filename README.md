@@ -2,7 +2,7 @@
 
 > Analysing Singapore's hawker culture through data — accessibility, regional distribution, and urban planning insights.
 
-**[🔴 Live Dashboard →](https://singapore-hawker-center-analysis-streamlit.app)** 
+**[🔴 Live Dashboard →](https://singapore-hawker-center-analysis-piajkrygaxlhtnthdappoam.streamlit.app)** 
 ---
 
 
